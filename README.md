@@ -1,4 +1,4 @@
-# NETFLIX-CLONE
+# NETFLIX CLONE
 
 Tech Stack: HTML and CSS 
 # Project Setup
